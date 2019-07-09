@@ -1,0 +1,66 @@
+[
+    {
+        "avatar" : "Ardoise.jpg",
+        "nom" : "Thierry",
+        "race" : "hrotgar",
+        "age" : "29ans",
+        "poste" : "gerant",
+        "presentation" : "lorem"
+    },
+    {
+        "avatar" : "./Images/avatars/02-avatar-2.w700.h700.jpg",
+        "nom" : "Jean",
+        "race" : "miqo'te solaire",
+        "age" : "28ans",
+        "poste" : "service en salle",
+        "presentation" : "lorem1"
+    },
+    {
+        "avatar" : "./Images/avatars/9e00881f2cf7a04897dad30b359ffbe4.jpg",
+        "nom" : "Jacques",
+        "race" : "roe",
+        "age" : "32ans",
+        "poste" : "videur",
+        "presentation" : "lorem2"
+    },
+    {
+        "avatar" : "./Images/avatars/86518.png",
+        "nom" : "Paul",
+        "race" : "hyurgoth",
+        "age" : "27ans",
+        "poste" : "cuisinne",
+        "presentation" : "lorem3"
+    },
+    {
+        "avatar" : "./Images/avatars/86709.jpg",
+        "nom" : "Rémi",
+        "race" : "miqo'te lunaire",
+        "age" : "17ans",
+        "poste" : "stagiaire",
+        "presentation" : "lorem4"
+    },
+    {
+        "avatar" : "./Images/avatars/291622937_small.jpg",
+        "nom" : "Michelle",
+        "race" : "raenne",
+        "age" : "43ans",
+        "poste" : "service en salle",
+        "presentation" : "lorem5"
+    },
+    {
+        "avatar" : "./Images/avatars/1436971967_454754.jpg",
+        "nom" : "Bernard",
+        "race" : "hyurois",
+        "age" : "34ans",
+        "poste" : "barman",
+        "presentation" : "lorem6"
+    },
+    {
+        "avatar" : "./Images/avatars/1517673151-sans-titre-1.png",
+        "nom" : "Philippe",
+        "race" : "lalafell des plaines",
+        "age" : "26ans",
+        "poste" : "balayeur",
+        "presentation" : "lorem7"
+    }
+]
